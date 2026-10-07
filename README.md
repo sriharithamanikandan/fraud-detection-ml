@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project develops a machine learning system to detect fraudulent credit card transactions. Since fraudulent transactions are much fewer than normal transactions, class imbalance is handled using SMOTE.
+This project develops a machine learning system to detect fraudulent financial transactions using a highly imbalanced transaction dataset.
 
 ## Dataset
 
